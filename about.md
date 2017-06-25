@@ -13,7 +13,7 @@ Simplemente esta es una página para recoger cotidaneidades
 * [Twitter](https://twitter.com/DanielEscobarW)
 * [Imágenes](http://daeshu.eu.org)
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+Este sitio está alojado en [GitHub](https://github.com/).
 
 ## PD:
 
