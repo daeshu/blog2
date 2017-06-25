@@ -4,9 +4,9 @@
 permalink:           pretty
 
 # Setup
-title:               Daniel
-tagline:             'Escobar blog'
-description:         '<img src="https://sites.google.com/site/daesweb/_/rsrc/1496106704404/config/customLogo.gif" />'
+title:               DANIEL
+tagline:             'ESCOBAR blog'
+description:         '<img src="https://github.com/daeshu/blog/blob/gh-pages/public/escobarzoho6.png" />'
 url:                 https://blog.escobar.eu.org
 baseurl:             'https://blog.escobar.eu.org'
 paginate:            5
