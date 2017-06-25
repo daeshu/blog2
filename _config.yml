@@ -7,8 +7,8 @@ permalink:           pretty
 title:               Daniel
 tagline:             'Escobar blog'
 description:         '<img src="https://sites.google.com/site/daesweb/_/rsrc/1496106704404/config/customLogo.gif" />'
-url:                 'https://blog.escobar.eu.org'
-baseurl:             'https://blog.escobar.eu.org'
+url:                 https://blog.escobar.eu.org
+baseurl:             'https://blog.escobar.eu.org/'
 paginate:            5
 
 # Custom vars
