@@ -1,6 +1,3 @@
----
-published: true
----
 ## Primera publicación
 
 > Hola soy **Daniel**,
