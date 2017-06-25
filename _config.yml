@@ -6,7 +6,7 @@ permalink:           pretty
 # Setup
 title:               DANIEL
 tagline:             'escobar blog'
-description:         '<img src="/blog/blob/gh-pages/public/escobarzoho6.png" />'
+description:         '<img src="https://0e994c45-a-62cb3a1a-s-sites.googlegroups.com/site/daesweb/escobarzoho6.png" />'
 url:                 https://blog.escobar.eu.org
 baseurl:             'https://blog.escobar.eu.org'
 paginate:            5
