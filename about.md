@@ -3,6 +3,7 @@ layout: page
 title: Acerca de
 published: true
 ---
+
 <p class="message">
 Esta página fue creada para guardar algunos sucesos nada relevantes que ocurrieron en un tal día del que ya nadie recuerda.
 </p>
