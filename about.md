@@ -11,7 +11,8 @@ Esta sitio existe gracias a la tecnología de **Github** y **Jekyll**.
 
 ### Contactos:
 
-* [E-mail]: _**info@escobar.eu.org**_
+
+* [E-mail](mailto:info@escobar.eu.org): _**info@escobar.eu.org**_
 * [Twitter](https://twitter.com/DanielEscobarW)
 * [Imágenes](http://daeshu.eu.org)
 
