@@ -3,7 +3,6 @@ layout: page
 title: Acerca de
 published: true
 ---
-![]({{site.baseurl}}/)
 <p class="message">
 Este sitio fue creado para guardar algunos **sucesos nada relevantes** que ocurrieron en un tal día del que ya nadie recuerda nada.
 </p>
