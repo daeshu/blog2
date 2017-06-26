@@ -1,4 +1,6 @@
 ---
+layout: blog
+title: Mi primera publicación
 published: true
 ---
 ## Hola, soy **Daniel**
