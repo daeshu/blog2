@@ -1,15 +1,18 @@
 ---
 layout: page
 title: Acerca de
+published: true
 ---
-
+![]({{site.baseurl}}/)
 <p class="message">
-  Algunos sucesos poco relevantes que ocurrieron en un tal día del que ya nadie recuerda nada. El tiempo me corroe los huesos!
+Este sitio fue creado para guardar algunos **sucesos poco relevantes** que ocurrieron en un tal día del que ya nadie recuerda nada.
 </p>
 
-Simplemente esta es una página para recoger cotidaneidades
+Esta sitio existe gracias a la tecnología de **Github** y **Jekyll**.
 
+### Contactos:
 
+* [E-mail]: _**info@escobar.eu.org**_
 * [Twitter](https://twitter.com/DanielEscobarW)
 * [Imágenes](http://daeshu.eu.org)
 
