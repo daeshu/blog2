@@ -17,7 +17,7 @@ Este sitio existe gracias a la tecnología de **[Github](https://github.com "Git
 * [Twitter](https://twitter.com/DanielEscobarW)
 * [Imágenes](http://daeshu.eu.org)
 
-❤ [GitHub](https://github.com/).
+ [GitHub](https://github.com/) ❤
 
 ## PD:
 
