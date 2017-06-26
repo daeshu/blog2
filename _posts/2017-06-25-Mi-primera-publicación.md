@@ -1,5 +1,4 @@
 ---
-layout: blog
 published: true
 ---
 ## Hola, soy **Daniel**
