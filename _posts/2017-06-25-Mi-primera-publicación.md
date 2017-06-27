@@ -1,5 +1,6 @@
 ---
 published: true
+excerpt_separator: <!--more-->
 ---
 ## Hola, soy **Daniel**
 
